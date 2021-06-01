@@ -1,0 +1,31 @@
+<div class="catelogWrapper">
+    <div class="card" *ngFor="let catalog of catalog_details">
+      <div class="section">
+        <div class="role-badge">{{catalog.role_badge}}</div>
+        <div class="paid-status">{{catalog.paid_status}}</div>
+      </div>
+      <div class="section star-sec ">
+        <div class="star-count">({{catalog.star_count}})</div>
+        <div class="total-hours">{{catalog.total_hours}}</div>
+      </div>
+      <div class="section">
+        <div class="card-title">{{catalog.card_title}}</div>
+      </div>
+      <div class="section mod-sec">
+        <div class="module-count">{{catalog.module_count}}</div>
+      </div>
+      <div class="section">
+        <div class="d-flex">
+            <label class="tag">TAGS</label>
+            <div class="tags-name">Apache &<a class="tags-more"> {{catalog.tags_more}}</a></div>
+        </div>
+        <div class="d-flex">
+          <img src="./../../../assets/TILE ICONS.png" alt="" class="tile-icon">
+        </div>
+      </div>
+      <div class="section btn-sec">
+        <div class="exp-level">{{catalog.exp_level}}</div>
+        <button type="button" class="btn">{{catalog.btn_text}}</button>
+        </div>
+    </div>
+  </div>

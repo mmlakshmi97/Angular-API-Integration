@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "role_badge" : "developer",
+        "paid_status" : "FREE",
+        "star_count" : 13,
+        "total_hours" : "4-5 hrs",
+        "card_title" : "Confluent Fundamentals for Apache Kafka®",
+        "module_count" : "10 MODULES",
+        "tags_more" : 3,
+        "exp_level" : "Beginner",
+        "btn_text" : "GET ACCESS"
+    },
+    {
+        "id": 2,
+        "role_badge" : "Administrator",
+        "paid_status" : "PAID",
+        "star_count" : 13,
+        "total_hours" : "4-5 hrs",
+        "card_title" : "Confluent Fundamentals for Apache Kafka®",
+        "module_count" : "10 MODULES",
+        "tags_more" : 3,
+        "exp_level" : "Intermediate",
+        "btn_text" : "ADD TO CART"
+    },
+    {
+        "id": 3,
+        "role_badge" : "Security",
+        "paid_status" : "PAID",
+        "star_count" : 13,
+        "total_hours" : "4-5 hrs",
+        "card_title" : "Confluent Fundamentals for Apache Kafka®",
+        "module_count" : "10 MODULES",
+        "tags_more" : 3,
+        "exp_level" : "Advanced",
+        "btn_text" : "VIEW DETAILS"
+    },
+    {
+        "id": 4,
+        "role_badge" : "developer",
+        "paid_status" : "FREE",
+        "star_count" : 13,
+        "total_hours" : "4-5 hrs",
+        "card_title" : "Confluent Fundamentals for Apache Kafka®",
+        "module_count" : "10 MODULES",
+        "tags_more" : 3,
+        "exp_level" : "Beginner",
+        "btn_text" : "GET ACCESS"
+    },
+    {
+        "id": 5,
+        "role_badge" : "developer",
+        "paid_status" : "PAID",
+        "star_count" : 13,
+        "total_hours" : "4-5 hrs",
+        "card_title" : "Confluent Fundamentals for Apache Kafka®",
+        "module_count" : "10 MODULES",
+        "tags_more" : 3,
+        "exp_level" : "Intermediate",
+        "btn_text" : "ADD TO CART"
+    },
+    {
+        "id": 6,
+        "role_badge" : "Security",
+        "paid_status" : "PAID",
+        "star_count" : 13,
+        "total_hours" : "4-5 hrs",
+        "card_title" : "Confluent Fundamentals for Apache Kafka®",
+        "module_count" : "10 MODULES",
+        "tags_more" : 3,
+        "exp_level" : "Advanced",
+        "btn_text" : "GET ACCESS"
+    }
+]

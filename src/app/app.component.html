@@ -1,0 +1,12 @@
+<nav class="navbar">
+  <div class="navtab">
+    <a [routerLink]="['/home']" [routerLinkActive]="['active']">Home</a>
+  </div>
+  <div class="navtab">
+    <a [routerLink]="['/catalog']" [routerLinkActive]="['active']">Catalog</a>
+  </div>
+</nav>
+<div class="pagecontent" id="pagecontent">
+  <router-outlet></router-outlet>
+</div>
+
